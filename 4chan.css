@@ -1,4 +1,4 @@
-//META{"name":"4chan","description":"Maximum funposting theme.","author":"Zyst","version":"0.3.1"}*//
+//META{"name":"4chan","description":"Maximum funposting theme.","author":"Zyst","version":"0.4.1"}*//
 .workaround-to-meta-killing-stuff {
     color: #fff;
 }
@@ -91,4 +91,7 @@ div .body h2 {} .chat>.title-wrap {
 }
 .app a:hover {
     color: #DD0000;
+}
+.emoji {
+    display: none;
 }
