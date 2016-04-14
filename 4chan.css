@@ -81,6 +81,9 @@ div .body h2 {} .chat>.title-wrap {
     background: inherit;
     color: #DD0000;
 }
+.message-group .comment .markup {
+    color: inherit;
+}
 .message-group .comment .markup pre {
     background: inherit;
     border: none;
