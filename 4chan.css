@@ -121,5 +121,5 @@ div .body h2 {} .chat>.title-wrap {
     
 }
 .message-group .mentioned .message-text:after {
-	border-left: none;
+    border-left: none;
 }
