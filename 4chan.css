@@ -1,4 +1,4 @@
-//META{"name":"4chan","description":"Maximum funposting theme.","author":"Zyst","version":"0.4.2"}*//
+//META{"name":"4chan","description":"Maximum funposting theme.","author":"Zyst","version":"0.4.4"}*//
 .workaround-to-meta-killing-stuff {
     color: #fff;
 }
@@ -80,6 +80,11 @@ div .body h2 {} .chat>.title-wrap {
 .highlight {
     background: inherit;
     color: #DD0000;
+    border-left: none !important;
+    border-radius: 0;
+}
+.highlight span {
+    border-left: none !important;
 }
 .message-group .comment .markup {
     color: inherit;
@@ -93,8 +98,28 @@ div .body h2 {} .chat>.title-wrap {
     border-radius: 5px;
 }
 .app a:hover {
+    color: #34345C;
+}
+.app a:hover {
     color: #DD0000;
 }
 .emoji {
     display: none;
+}
+.chat .divider>span {
+    background: inherit;
+}
+.message-group .mentioned .message-text {
+	background: inherit;
+    border-radius: 0;
+}
+
+.message-group .mentioned .message-text .markup span {
+    background: rgba(250,166,26,.2);
+    border-left: 4px solid #faa61a;
+    border-radius: 2px 0 0 2px;
+    
+}
+.message-group .mentioned .message-text:after {
+	border-left: none;
 }
