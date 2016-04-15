@@ -97,7 +97,7 @@ div .body h2 {} .chat>.title-wrap {
     border: 2px solid #f3f3f3;
     border-radius: 5px;
 }
-.app a:hover {
+.app a {
     color: #34345C;
 }
 .app a:hover {
