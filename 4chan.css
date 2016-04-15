@@ -110,10 +110,9 @@ div .body h2 {} .chat>.title-wrap {
     background: inherit;
 }
 .message-group .mentioned .message-text {
-	background: inherit;
+    background: inherit;
     border-radius: 0;
 }
-
 .message-group .mentioned .message-text .markup span {
     background: rgba(250,166,26,.2);
     border-left: 4px solid #faa61a;
