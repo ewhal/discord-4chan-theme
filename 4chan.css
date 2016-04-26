@@ -1,4 +1,4 @@
-//META{"name":"4chan","description":"Maximum funposting theme.","author":"Zyst","version":"0.5.1"}*//
+//META{"name":"4chan","description":"Maximum funposting theme.","author":"Zyst","version":"0.5.2"}*//
 .workaround-to-meta-killing-stuff {
     color: #fff;
 }
@@ -118,4 +118,7 @@ div.avatar-large {
 }
 .mentioned .highlight:after {
     content: " (You)";
+}
+.chat .content {
+    background-color: inherit;
 }
