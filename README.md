@@ -3,11 +3,7 @@ A [BetterDiscord](https://betterdiscord.net/home/) theme that makes Discord look
 
 # Screenshots
 
-![4chan theme first](https://camo.githubusercontent.com/cb4b4e4fe9ad7aee114082754bad68db2b74083d/687474703a2f2f7075752e73682f6f68744c4d2f326162613936353933652e706e67)
-
-![4chan theme](https://camo.githubusercontent.com/e702df0ba50c2e617f298d790e189aee7b1b01a4/687474703a2f2f7075752e73682f6f687356422f393837366366626132652e706e67)
-
-![Quotes](https://camo.githubusercontent.com/0e5f982ba933b2f47253c759eb426d6e980734d2/687474703a2f2f7075752e73682f6f687474752f383366326363636534302e706e67)
+![4chan theme first](http://puu.sh/oW0MB/92cb63c178.png)
 
 Quotes work as well, by replacing inline code. Just use backticks:
 
@@ -25,8 +21,8 @@ code.inline {
 
 # How to install
 1. Go to the [Better Discord](https://betterdiscord.net/home/) home page, download and install better Discord.
-2. Download [4chan.css](https://github.com/Zyst/discord-4chan-theme/releases/download/0.5.2/4chan.css). 
-3. Add the `4chan.css` to `C:\Users\NAME\AppData\Roaming\BetterDiscord\themes` in Windows, `~/Library/Preferences/BetterDiscord/themes` in OSX, or where ever the BetterDiscord folder is located.
+2. Download [4chan.theme.css](https://github.com/Zyst/discord-4chan-theme/releases/download/0.5.2/4chan.css). 
+3. Add the `4chan.theme.css` to `C:\Users\NAME\AppData\Roaming\BetterDiscord\themes` in Windows, `~/Library/Preferences/BetterDiscord/themes` in OSX, or where ever the BetterDiscord folder is located.
 4. Close and reopen Discord.
 5. Go to User Settings -> Appearance -> Theme and change it to Light, this will not work in the Dark theme.
 6. Go to User Settings -> Better Discord -> Themes -> And tick the '4chan' option. ![Themes option](https://camo.githubusercontent.com/59b3f0106f82da83cc09f2fb6fccb28937962e87/687474703a2f2f7075752e73682f6f687461382f396264373062633035312e706e67) 
