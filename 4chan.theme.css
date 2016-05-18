@@ -1,0 +1,124 @@
+//META{"name":"4chan","description":"Maximum funposting theme.","author":"Zyst","version":"0.5.2"}*//
+.workaround-to-meta-killing-stuff {
+    color: #fff;
+}
+code.inline {
+    color: #789922;
+    background: inherit !important;
+}
+div.message-group {
+    background-color: #D6DAF0;
+    border: 1px solid #B7C5D9;
+    border-left: none;
+    border-top: none;
+    display: table;
+    padding: 2px;
+    margin: 6px 0 0 1em;
+    overflow: hidden;
+    min-width: 325px;
+    margin-right: 16px;
+}
+div.comment {
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 40px;
+    -webkit-margin-end: 40px;
+}
+div.chat.flex-vertical.flex-spacer {
+    background: #EEF2FF;
+}
+div.channel-textarea-emoji {
+    display: none;
+}
+div.channel-members-wrap {
+    border: 1px solid transparent;
+    border-radius: 3px 3px 0 0;
+}
+div.scroller.channel-members {
+    background: #EEF2FF;
+}
+div.avatar-large {
+    background-size: auto auto;
+    width: 125px;
+    height: 125px;
+    border-radius: 0px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 1em !important;
+    margin-bottom: 20px;
+}
+.chat>.title-wrap {
+    background-color: rgba(214, 218, 240, 0.98);
+    border-bottom-width: 1px;
+    box-shadow: -5px 1px 10px rgba(0, 0, 0, 0.20);
+}
+.chat>.title-wrap>.title .channel-name {
+    color: #34345C;
+}
+.chat>.title-wrap>.separator {
+    color: #89A;
+    background-color: #89A;
+}
+.chat>.title-wrap>.topic {
+    color: #34345C;
+}
+.edit-message .edit-container-outer .avatar-large {
+    display: none;
+}
+.channel-textarea-inner textarea {
+    margin-right: 0;
+}
+.chat .divider.divider-red>span {
+    background: #EEF2FF;
+    color: #DD0000;
+}
+.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+    border: none;
+    border-radius: 0px;
+}
+.highlight {
+    background: inherit;
+    color: #DD0000;
+    border-left: none !important;
+    border-radius: 0;
+}
+.highlight span {
+    border-left: none !important;
+}
+.message-group .comment .markup {
+    color: inherit;
+}
+.message-group .comment .markup pre {
+    background: inherit;
+    border: none;
+}
+.message-group .comment .markup pre code {
+    border: 2px solid #f3f3f3;
+    border-radius: 5px;
+}
+.app a {
+    color: #34345C;
+}
+.app a:hover {
+    color: #DD0000;
+}
+.emoji {
+    display: none;
+}
+.chat .divider>span {
+    background: inherit;
+}
+.message-group .mentioned .message-text {
+    background: inherit;
+    border-radius: 0;
+}
+.message-group .mentioned .message-text:after {
+    border-left: none;
+}
+.mentioned .highlight:after {
+    content: " (You)";
+}
+.chat .content {
+    background-color: inherit;
+}
