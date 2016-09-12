@@ -87,7 +87,7 @@ div.avatar-large {
     border-left: none !important;
 }
 .message-group .comment .markup {
-    color: inherit;
+    color: black;
 }
 .message-group .comment .markup pre {
     background: inherit;
