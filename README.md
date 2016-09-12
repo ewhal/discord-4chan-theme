@@ -1,5 +1,5 @@
 # Discord 4chan theme
-A [BetterDiscord](https://betterdiscord.net/home/) theme that makes Discord look like a 4chan thread. As a bonus it also removes the Emoji button. As of 0.4.1 it also removes all emojis from chat. 
+A [BetterDiscord](https://betterdiscord.net/home/) theme that makes Discord look like a 4chan thread. As a bonus it also removes the Emoji button. As of 0.4.1 it also removes all emojis from chat.
 
 # Screenshots
 
@@ -7,7 +7,7 @@ A [BetterDiscord](https://betterdiscord.net/home/) theme that makes Discord look
 
 Quotes work as well, by replacing inline code. Just use backticks:
 
-\`>Some quote here\` 
+\`>Some quote here\`
 
 To create code blocks you should use the triple fence notation:
 
@@ -21,11 +21,11 @@ code.inline {
 
 # How to install
 1. Go to the [Better Discord](https://betterdiscord.net/home/) home page, download and install better Discord.
-2. Download [4chan.theme.css](https://github.com/Zyst/discord-4chan-theme/releases/download/0.5.3/4chan.theme.css). 
+2. Download [4chan.theme.css](https://github.com/Zyst/discord-4chan-theme/releases/download/0.5.4/4chan.theme.css).
 3. Add the `4chan.theme.css` to `C:\Users\NAME\AppData\Roaming\BetterDiscord\themes` in Windows, `~/Library/Preferences/BetterDiscord/themes` in OSX, or where ever the BetterDiscord folder is located.
 4. Close and reopen Discord.
 5. Go to User Settings -> Appearance -> Theme and change it to Light, this will not work in the Dark theme.
-6. Go to User Settings -> Better Discord -> Themes -> And tick the '4chan' option. ![Themes option](https://camo.githubusercontent.com/59b3f0106f82da83cc09f2fb6fccb28937962e87/687474703a2f2f7075752e73682f6f687461382f396264373062633035312e706e67) 
+6. Go to User Settings -> Better Discord -> Themes -> And tick the '4chan' option. ![Themes option](https://camo.githubusercontent.com/59b3f0106f82da83cc09f2fb6fccb28937962e87/687474703a2f2f7075752e73682f6f687461382f396264373062633035312e706e67)
 
 # License
 
