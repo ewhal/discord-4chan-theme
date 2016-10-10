@@ -1,4 +1,4 @@
-//META{"name":"4chan","description":"Maximum funposting theme.","author":"Zyst","version":"0.5.2"}*//
+//META{"name":"4chan","description":"Maximum funposting theme.","author":"Zyst","version":"0.5.6"}*//
 .workaround-to-meta-killing-stuff {
     color: #fff;
 }
@@ -122,7 +122,7 @@ div.avatar-large {
 .chat .content {
     background-color: inherit;
 }
-.chat .divider .divider-red {
+.chat .divider.divider-red {
 	padding-top: 13px;
     padding-bottom: 8px;
     background: inherit;
