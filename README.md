@@ -21,7 +21,7 @@ code.inline {
 
 # How to install
 1. Go to the [Better Discord](https://betterdiscord.net/home/) home page, download and install better Discord.
-2. Download [4chan.theme.css](https://github.com/Zyst/discord-4chan-theme/releases/download/0.5.4/4chan.theme.css).
+2. Download [4chan.theme.css](https://github.com/Zyst/discord-4chan-theme/releases/download/0.5.5/4chan.theme.css).
 3. Add the `4chan.theme.css` to `C:\Users\NAME\AppData\Roaming\BetterDiscord\themes` in Windows, `~/Library/Preferences/BetterDiscord/themes` in OSX, or where ever the BetterDiscord folder is located.
 4. Close and reopen Discord.
 5. Go to User Settings -> Appearance -> Theme and change it to Light, this will not work in the Dark theme.
