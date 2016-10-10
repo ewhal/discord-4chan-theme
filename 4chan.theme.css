@@ -122,3 +122,8 @@ div.avatar-large {
 .chat .content {
     background-color: inherit;
 }
+.chat .divider .divider-red {
+	padding-top: 13px;
+    padding-bottom: 8px;
+    background: inherit;
+}
