@@ -1,4 +1,4 @@
-# Discord 4chan theme
+# Discord 4chan Tomorrow theme
 A [BetterDiscord](https://betterdiscord.net/home/) theme that makes Discord look like a 4chan thread. As a bonus it also removes the Emoji button. As of 0.4.1 it also removes all emojis from chat.
 
 # Screenshots
