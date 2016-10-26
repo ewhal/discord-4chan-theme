@@ -8,7 +8,7 @@ code.inline {
 }
 div.message-group {
     background-color: #282A2E;
-    border: 1px solid #B7C5D9;
+    border: 1px solid #282A2E;
     border-left: none;
     border-top: none;
     display: table;
@@ -25,7 +25,7 @@ div.comment {
     -webkit-margin-end: 40px;
 }
 div.chat.flex-vertical.flex-spacer {
-    background: #EEF2FF;
+    background: #1D1F21;
 }
 div.channel-textarea-emoji {
     display: none;
@@ -35,7 +35,7 @@ div.channel-members-wrap {
     border-radius: 3px 3px 0 0;
 }
 div.scroller.channel-members {
-    background: #EEF2FF;
+    background: #1D1F21;
 }
 div.avatar-large {
     background-size: auto auto;
@@ -49,7 +49,7 @@ div.avatar-large {
     margin-bottom: 20px;
 }
 .chat>.title-wrap {
-    background-color: rgba(214, 218, 240, 0.98);
+    background-color: rgba(29,31, 33 0.98);
     border-bottom-width: 1px;
     box-shadow: -5px 1px 10px rgba(0, 0, 0, 0.20);
 }
@@ -70,7 +70,7 @@ div.avatar-large {
     margin-right: 0;
 }
 .chat .divider.divider-red>span {
-    background: #EEF2FF;
+    background: #1D1F21;
     color: #DD0000;
 }
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
