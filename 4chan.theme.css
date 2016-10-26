@@ -27,9 +27,6 @@ div.comment {
 div.chat.flex-vertical.flex-spacer {
     background: #1D1F21;
 }
-div.channel-textarea-emoji {
-    display: none;
-}
 div.channel-members-wrap {
     border: 1px solid transparent;
     border-radius: 3px 3px 0 0;
@@ -54,14 +51,14 @@ div.avatar-large {
     box-shadow: -5px 1px 10px rgba(0, 0, 0, 0.20);
 }
 .chat>.title-wrap>.title .channel-name {
-    color: #34345C;
+    color: #fff;
 }
 .chat>.title-wrap>.separator {
     color: #89A;
     background-color: #89A;
 }
 .chat>.title-wrap>.topic {
-    color: #34345C;
+    color: #fff;
 }
 .edit-message .edit-container-outer .avatar-large {
     display: none;
